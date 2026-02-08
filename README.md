@@ -1,1 +1,1 @@
-# Manifesto
+# vitrine-pwa
